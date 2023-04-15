@@ -1,4 +1,3 @@
-# SCC_ML_Task
 # SmokeDetection
 Summary of the project - 
 
